@@ -1,6 +1,6 @@
 <p align="middle">
-  <img src="./out/console_output_0.png" width="100" />
-  <img src="./out/console_output_1.png" width="100" /> 
+  <img src="./out/console_output_0.png" width="500" />
+  <img src="./out/console_output_1.png" width="500" /> 
 </p>
 
 # ascii-art
